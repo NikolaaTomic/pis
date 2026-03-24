@@ -8,5 +8,6 @@ namespace vjezba1
 {
     internal class NewClass
     {
+        void funkcija(){ }
     }
 }
