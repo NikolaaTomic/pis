@@ -2,3 +2,4 @@
 Console.WriteLine("Hello, World!");
 Console.WriteLine("nova linija");
 Console.WriteLine("kolaborator");
+Console.WriteLine("evo i mene");
